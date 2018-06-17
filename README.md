@@ -1,1 +1,0 @@
-# cde-gallery-flip-demo
